@@ -1,7 +1,7 @@
 # FdF
 
 ![Vista previa de FdF](assets/FdF.png)
-
+![FdF](https://img.shields.io/badge/42_Madrid-FdF-green)
 ## Descripción
 
 FdF es un programa que convierte un mapa en 2D en una visualización 3D interactiva, permitiendo rotar y escalar la imagen para una mejor perspectiva.
